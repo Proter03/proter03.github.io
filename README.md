@@ -76,7 +76,7 @@
                   nenhum controle e não assume nenhuma responsabilidade pelo conteúdo, nem,
                   políticas de privacidade ou práticas de quaisquer sites de terceiros
                   serviços.
-                </font></font></p> <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Children’ Privacidade</font></font></strong></p> <div><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                </font></font></p> <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Crianças Privacidade</font></font></strong></p> <div><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     Estes Serviços não se dirigem a ninguém com idade inferior a 13 anos.
                     Eu não coleciono conscientemente pessoalmente
                     informações identificáveis de crianças menores de 13 anos de idade. No caso
