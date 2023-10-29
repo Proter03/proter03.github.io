@@ -1,3 +1,5 @@
+# Política de Privacidade
+
 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Política de Privacidade</font></font></strong> <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                   Felipe Gabriel construiu o aplicativo Quebra Tijolos como
                   um aplicativo gratuito. Este SERVIÇO é fornecido por
