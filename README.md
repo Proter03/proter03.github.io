@@ -94,7 +94,4 @@
                   periodicamente para quaisquer alterações. Eu vou
                   notificá-lo de quaisquer alterações, publicando a nova Política de Privacidade em
                   esta página.
-                </font></font></p> <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Esta política é eficaz a partir de 2023-10-29</font></font></p> <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Entre em Contato</font></font></strong></p> <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                  Se você tiver alguma dúvida ou sugestão sobre o meu
-                  Política de Privacidade, não hesite em contactar-me em felipegene79@gmail.com.
-                </font></font></p> <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Esta página de política de privacidade foi criada em </font></font><a href="https://privacypolicytemplate.net" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">privacypolicytemplate.com </font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">e modificado/gerado por </font></font><a href="https://app-privacy-policy-generator.nisrulz.com/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">App Política de Privacidade Gerador</font></font></a></p>
+                </font></font></p> <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Esta política é eficaz a partir de 2023-10-29</font></font></p>
